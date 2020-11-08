@@ -1,5 +1,6 @@
 # tic-tac-toe
 It is TIC-TAC-TOE . It is made purely in C++ .
+
 2.REQUIREMENTS OF THE GAME
 
 2.1 Hardware Requirements
